@@ -1,2 +1,2 @@
-# 1st-Year-C-programming
-Collection of codes that is have performed in my 1st year of Engineering.
+# C-programming
+Collection of codes that I've performed in my 1st year of Engineering.
